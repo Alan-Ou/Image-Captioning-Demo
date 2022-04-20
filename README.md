@@ -1,6 +1,6 @@
 # Image-Captioning-Demo
 
-### Samples:
+## Samples:
 
 <p align="center">
   <img src="img/1.png" />
@@ -9,18 +9,18 @@
 
 All these images has been annotated by image transformer.
 
-# Usage 
+## Usage 
 First, clone the repository locally:
 ```
-$ git clone https://github.com/saahiluppal/catr.git
+$ git clone https://github.com/Alan-Ou/deployment.git
 ```
-Then, install dependencies:
+Second, install dependencies:
 ```
 $ pip install -r requirements.txt
 ```
-Afterwards, download the checkpoints.zip and unzip it to the working directory
+Afterwards, download the checkpoints.zip and unzip it to working directory
 ```
-$ unzip chekpoints.zip
+$ unzip checkpoints.zip
 ```
 Finally, run the app.py
 ```
